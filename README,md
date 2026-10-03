@@ -1,0 +1,20 @@
+# Python Calculator
+
+A simple calcualtor build with Python
+
+## features
+
+-Addtion
+-Subtraction
+-Multiplication
+-Division
+-Run continuously in a while loop
+-Allows the user to quit
+
+## What I Practiced
+
+-VAriables
+-User inputs
+-if/elif statements
+-While loops
+-Basic Python operators
